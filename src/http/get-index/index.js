@@ -19,7 +19,7 @@ exports.handler = async function Index () {
      */
     email: 'karsten.wolfert@iw-experten.de',
     twitter: 'yourTwitter',
-    linkedin: 'karsten-wolfert',
+    linkedin: 'karstenwolfert',
     instagram: 'yourInsta',
     facebook: 'your-facebook-name',
 
