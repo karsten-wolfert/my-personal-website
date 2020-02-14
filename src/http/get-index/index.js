@@ -7,9 +7,9 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
+    fullname: 'Karsten Wolfert', // ←  Start by adding your name!
     title: 'My personal site!',
-    occupation: 'Artist & Photographer',
+    occupation: 'System Architect',
     location: 'West Glacier, MT',
     bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
 
@@ -17,9 +17,9 @@ exports.handler = async function Index () {
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
+    email: 'karsten.wolfert@iw-experten.de',
     twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
+    linkedin: 'karsten-wolfert',
     instagram: 'yourInsta',
     facebook: 'your-facebook-name',
 
