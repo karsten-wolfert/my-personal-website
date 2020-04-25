@@ -7,6 +7,7 @@ begin-app
 
 @http
 get /
+get /impressum
 
 @tables
 data
