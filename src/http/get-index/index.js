@@ -10,7 +10,7 @@ exports.handler = async function Index () {
     fullname: 'Karsten Wolfert', // ←  Start by adding your name!
     title: 'Karsten Wolfert - Systemarchitekt!',
     occupation: 'System Architect',
-    location: 'West Glacier, MT',
+    location: 'Petzow Werder (Havel)',
     bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
 
     /**
